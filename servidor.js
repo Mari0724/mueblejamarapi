@@ -26,6 +26,7 @@ app.use('/', rutacliente);
 
 
 
+
 //crear el servidor
 const PORT = 3030
 app.listen(PORT, () => {
