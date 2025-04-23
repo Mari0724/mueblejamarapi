@@ -29,5 +29,5 @@ app.use('/', rutacliente);
 //crear el servidor
 const PORT = 3030
 app.listen(PORT, () => {
-    console.log (`Servidor Corriendo en http://localhost:${PORT}`) //lo que queremos ver por consola
+    console.log (`Servidor Corriendo en http://localhost:${PORT}`) //lo que queremos ver por consola
 }); 

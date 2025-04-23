@@ -19,4 +19,4 @@ class ClienteModelo {
       }
 }
 
-module.exports = ClienteModelo;
+module.exports = ClienteModelo;

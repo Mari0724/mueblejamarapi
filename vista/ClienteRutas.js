@@ -2,6 +2,6 @@ const express = require('express');
 const ClienteControlador = require('../controlador/ClienteControlador');
 const router = express.Router();
 
-router.post('/usuarios', ClienteControlador.crearCliente);
+router.post('/usuarios', ClienteControlador.crearClientes);
 
-module.exports = router; 
+module.exports = router;
